@@ -1,3 +1,4 @@
 {
-    "competition": "test"
+    "competition": "test",
+    "docker_name": "test"
 }
